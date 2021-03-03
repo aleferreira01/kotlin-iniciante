@@ -18,11 +18,4 @@ fun main() {
 
     println("Área do círculo: ${"%.2f".format(area)} m²")
 
-
-
-
-
-
-
-
 }
